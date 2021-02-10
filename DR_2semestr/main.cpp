@@ -15,6 +15,8 @@ int main() {
 		std::cout << a << " and " << b << " you are married now\n";
 	else
 		std::cout << "Come back later\n";
+	
+	std::cout << "Married or not be happy!\n";
 
 	return 0;
 }
