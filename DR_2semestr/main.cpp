@@ -18,12 +18,11 @@ int main() {
 	
 	std::cout << "Married or not be happy!\n";
 
-<<<<<<< HEAD
 	std::cout << "Here is a new family! It is time to think about children and mortgage\n";
 
+	std::cout << "First of all, we need children. God gave you a bunny-he will give you a lawn\n";
 	
 	std::cout << "It is time to change your life!";
->>>>>>> main
 
 	return 0;
 }
