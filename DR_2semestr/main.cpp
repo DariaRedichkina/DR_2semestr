@@ -18,5 +18,7 @@ int main() {
 	
 	std::cout << "Married or not be happy!\n";
 
+	std::cout << "It is time to change your life!";
+
 	return 0;
 }
