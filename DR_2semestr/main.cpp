@@ -28,5 +28,7 @@ int main() {
 
 	std::cout << "don't wait for God's help, go to work and enjoy your family life\n";
 
+	std::cout << "Not being able to have children is normal, you can always adopt them, and make someone happier\n";
+
 	return 0;
 }
