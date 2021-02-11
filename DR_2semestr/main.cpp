@@ -26,5 +26,7 @@ int main() {
 
 	std::cout << "You have children now! Nothink, but children...\n";
 
+	std::cout << "don't wait for God's help, go to work and enjoy your family life\n";
+
 	return 0;
 }
