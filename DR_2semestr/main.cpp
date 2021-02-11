@@ -28,5 +28,7 @@ int main() {
 
 	std::cout << "don't wait for God's help, go to work and enjoy your family life\n";
 
+	std::cout << "You are a mistake of nature! Go to church and don't come back without the kids\n";
+
 	return 0;
 }
