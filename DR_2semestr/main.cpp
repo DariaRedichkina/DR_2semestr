@@ -22,7 +22,7 @@ int main() {
 
 	std::cout << "First of all, we need children. God gave you a bunny-he will give you a lawn\n";
 	
-	std::cout << "It is time to change your life!";
+	std::cout << "It is time to change your life!\n";
 
 	return 0;
 }
