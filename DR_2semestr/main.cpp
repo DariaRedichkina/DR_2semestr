@@ -24,5 +24,7 @@ int main() {
 	
 	std::cout << "It is time to change your life!\n";
 
+	std::cout << "You have children now! Nothink, but children...\n";
+
 	return 0;
 }
